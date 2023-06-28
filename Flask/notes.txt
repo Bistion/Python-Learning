@@ -1,0 +1,5 @@
+Going to use pipenv to setup a virtual environment.
+
+Steps to get environment up.
+1. pipenv install
+2. pipenv shell
