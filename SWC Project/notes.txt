@@ -1,7 +1,7 @@
 To get the api calls to work you need to do the following.
 
 Setup Flask
-    1. From a terminal cd into Flask/First_Website folder
+    1. From a terminal cd into Flask folder
     2. Do a pipenv install
     3. Do a pipenv shell
     4. Run python app.py from within the pipenv shell
